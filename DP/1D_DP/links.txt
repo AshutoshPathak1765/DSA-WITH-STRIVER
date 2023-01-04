@@ -1,3 +1,5 @@
+Problem Name :- Count Ways To Reach The Nth Stair
+
 Problem Links:-
 
 GFG:- https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=count-ways-to-reach-the-nth-stair-1587115620
@@ -6,3 +8,13 @@ LEETCODE:- https://leetcode.com/problems/climbing-stairs/
 YT LINK FOR THE LECTURE:-
 
 https://www.youtube.com/watch?v=mLfjzJsN8us&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=3
+
+Problem Name:- Geek Jump
+
+Problem Links:-
+
+GFG:- https://practice.geeksforgeeks.org/problems/geek-jump/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=geek-jump
+
+YT LINK FOR THE LECTURE:-
+
+https://www.youtube.com/watch?v=EgG3jsGoPvQ&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=4
