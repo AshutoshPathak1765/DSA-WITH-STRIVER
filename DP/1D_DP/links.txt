@@ -24,3 +24,10 @@ GFG:- https://practice.geeksforgeeks.org/problems/minimal-cost/1?utm_source=yout
 YT LINK FOR THE LECTURE:-
 https://www.youtube.com/watch?v=Kmh3rhyEtB8&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=5
 
+Problem Name:- Max Sum without Adjacents
+
+Problem Links:-
+GFG:-https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=max-sum-without-adjacents
+
+YT LINK FOR THE LECTURE:-
+https://www.youtube.com/watch?v=GrMBfJNk_NY&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=6
