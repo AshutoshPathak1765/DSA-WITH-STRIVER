@@ -33,7 +33,10 @@ public:
     for (int ind = 1; ind < n; ind++) {
       int take = INT_MIN, notTake = INT_MIN;
       // take the element from index
-      take = arr[ind] + dp[ind - 2];
+      if (ind > 1)
+        take = arr[ind] + dp[ind - 2];
+      else
+        take = arr[ind];
       // else don't take the element from ind
       notTake = dp[ind - 1];
       // return the maximum of the two results
