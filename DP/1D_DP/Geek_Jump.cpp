@@ -13,6 +13,7 @@ private:
     // make a jump from ind to ind-2 also add the absolute difference of heights
     // and solve for the remaining ind-2 indices
     int jump2 = INT_MAX;
+    // only make a jump to ind-2 if the index is more than 1 meaning there are more than 2 stairs
     if (ind > 1)
       jump2 = abs(height[ind] - height[ind - 2]) + f(ind - 2, height, dp);
     // take the minimum of the two jumps which takes less energy
