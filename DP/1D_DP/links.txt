@@ -6,16 +6,21 @@ GFG:- https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-st
 LEETCODE:- https://leetcode.com/problems/climbing-stairs/
 
 YT LINK FOR THE LECTURE:-
-
 https://www.youtube.com/watch?v=mLfjzJsN8us&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=3
 
 Problem Name:- Geek Jump
 
 Problem Links:-
-
 GFG:- https://practice.geeksforgeeks.org/problems/geek-jump/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=geek-jump
 
 YT LINK FOR THE LECTURE:-
-
 https://www.youtube.com/watch?v=EgG3jsGoPvQ&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=4 
+
+Problem Name:- Minimal Cost
+
+Problem Links:-
+GFG:- https://practice.geeksforgeeks.org/problems/minimal-cost/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=minimal-cost
+
+YT LINK FOR THE LECTURE:-
+https://www.youtube.com/watch?v=Kmh3rhyEtB8&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=5
 
