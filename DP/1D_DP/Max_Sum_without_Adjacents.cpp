@@ -32,10 +32,11 @@ public:
     dp[0] = arr[0];
     for (int ind = 1; ind < n; ind++) {
       int take = INT_MIN, notTake = INT_MIN;
-      // take the element from index
+      // take the element from index if ind-2 exists
       if (ind > 1)
         take = arr[ind] + dp[ind - 2];
       else
+        // else don't take the ind-2 element
         take = arr[ind];
       // else don't take the element from ind
       notTake = dp[ind - 1];
