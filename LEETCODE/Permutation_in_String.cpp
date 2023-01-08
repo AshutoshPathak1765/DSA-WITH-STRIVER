@@ -1,5 +1,6 @@
 /*
-    Problem Link:- https://leetcode.com/problems/permutation-in-string/submissions/
+    Problem Link:- https://leetcode.com/problems/permutation-in-string/
+    YT Link:- https://www.youtube.com/watch?v=UbyhOgBN834&list=PLot-Xpze53leOBgcVsJBEGrHPd_7x_koV&index=9
 */
 class Solution {
     // Approach:- Maintain two hashmaps for the two strings and maintain a window of size of the string s
