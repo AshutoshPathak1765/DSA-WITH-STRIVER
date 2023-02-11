@@ -5,8 +5,8 @@ int uniquePaths(int m, int n) {
 	// Write your code here.
 	// dp(i,j) -> Number of ways to reach from the cell (i,j) to the cell (m-1,n-1)
 	// final answer-> dp(0,0)
-	// dp(i,j)=dp(i,j+1)+dp(i+1,j)
-	// dp(m-1,n-1)=1
+	// recurrence-> dp(i,j)=dp(i,j+1)+dp(i+1,j)
+	// base case-> dp(m-1,n-1)=1
 
 	int dp[m][n];
 	// calculate for all (i,j) for all i ranging from (m-1 to 0) and for all j ranging from (n-1 to 0)
