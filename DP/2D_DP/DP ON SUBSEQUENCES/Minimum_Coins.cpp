@@ -7,8 +7,8 @@ int minimumElements(vector<int> &num, int x)
     // dp(i,s)-> Minimum number of elements needed to reach the sum of s using the elements from [0..i]
     // final answer-> dp(n-1,x)
     // Recurrence-> dp(i,s)=min(dp(i-1,x),1+dp(i,x-num[i]))
-    // Base Case -> dp(0,s)=s/num[0] if s%arr[0]==0 for all s>=0 && s<=x
-    // else dp(0,s)=1e9(not possible) if s%arr[0]!=0
+    // Base Case -> dp(0,s)=s/num[0] if s%num[0]==0 for all s>=0 && s<=x
+    // else dp(0,s)=1e9(not possible) if s%num[0]!=0
 
     int n = num.size();
     int dp[n][x + 1];
